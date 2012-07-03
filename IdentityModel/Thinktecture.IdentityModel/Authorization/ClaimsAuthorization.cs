@@ -6,10 +6,8 @@
 using System;
 using System.Collections.ObjectModel;
 using System.Diagnostics.Contracts;
-//using System.IdentityModel.Services;
 using System.Security;
 using System.Threading;
-//using System.Security.Claims;
 using Microsoft.IdentityModel.Claims;
 using Microsoft.IdentityModel.Web;
 

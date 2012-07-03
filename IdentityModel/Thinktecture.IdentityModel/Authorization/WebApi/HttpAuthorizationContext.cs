@@ -4,7 +4,6 @@
  */
 
 using System.Threading;
-//using System.Security.Claims;
 using System.Web.Http.Controllers;
 using Microsoft.IdentityModel.Claims;
 

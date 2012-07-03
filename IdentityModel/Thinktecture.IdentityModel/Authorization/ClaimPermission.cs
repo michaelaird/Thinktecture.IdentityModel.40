@@ -6,11 +6,9 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-//using System.IdentityModel.Services;
 using System.Linq;
 using System.Reflection;
 using System.Security;
-//using System.Security.Claims;
 using System.Security.Permissions;
 using System.Security.Policy;
 using System.Text;

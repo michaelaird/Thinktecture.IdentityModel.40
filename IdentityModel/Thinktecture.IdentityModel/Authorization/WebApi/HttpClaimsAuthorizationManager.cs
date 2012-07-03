@@ -3,8 +3,6 @@
  * see license.txt
  */
 
-//using System.IdentityModel.Services;
-//using System.Security.Claims;
 using System.Web.Http.Controllers;
 using Microsoft.IdentityModel.Claims;
 using Microsoft.IdentityModel.Web;
